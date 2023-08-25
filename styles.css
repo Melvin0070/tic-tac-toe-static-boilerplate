@@ -84,6 +84,15 @@ h3{
 a{
     color: white;
 }
+h2{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-size: 92px;
+    color: #FAB201;
+    font-weight: 900;
+}
+
 
 @media (max-width:600px){
     h1{
